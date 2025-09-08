@@ -33,10 +33,10 @@ Whether it’s a robust backend, a smooth frontend, or a **3D animated experienc
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,nodejs,react,vite,flutter,html,css,bootstrap,threejs,laravel,django&theme=light)](https://skillicons.dev)
 
 **Databases & Cloud:**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,nginx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,nginx&theme=light)](https://skillicons.dev)
 
 **IDEs & Other Softwares:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,powershell,androidstudio,blender,nginx,figma,git,github,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,powershell,androidstudio,blender,figma,git,github,gitlab&theme=light)](https://skillicons.dev)
 
 **Operating Systems:**  
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,windows,raspberrypi&theme=light)](https://skillicons.dev)
