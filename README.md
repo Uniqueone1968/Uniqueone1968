@@ -1,11 +1,11 @@
-<p align="left">
+ <!-- <p align="left">
   <img src="https://raw.githubusercontent.com/Uniqueone1968/Uniqueone1968/main/assets/3d-character2.gif" alt="3D Avatar" width="250" align="right" />
 </p>
- <!-- https://github.com/user-attachments/assets/55aba73a-62a2-4135-bc05-2e5cbb179ef9 -->
+https://github.com/user-attachments/assets/55aba73a-62a2-4135-bc05-2e5cbb179ef9 -->
 
-<h3 align="left">👋 Hey, I’m Gourav Sharma</h3>
+<h1 align="left">👋 Hey, I’m Gourav Sharma</h1>
 
-#### 🚀 Senior Full Stack Developer | AI Enthusiast | Creative Builder  
+### 🚀 Senior Full Stack Developer | AI Enthusiast | Creative Builder  
 
 I craft **scalable applications, debug complex systems, and create immersive experiences** that blend technology with creativity.  
 Whether it’s a robust backend, a smooth frontend, or a **3D animated experience**, I thrive on building impactful projects.  
