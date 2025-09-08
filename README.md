@@ -10,9 +10,22 @@ I craft **scalable applications, debug complex systems, and create immersive exp
 Whether it’s a robust backend, a smooth frontend, or a **3D animated experience**, I thrive on building impactful projects.  
 
 ---
+## ⚡ GitHub Activity
 
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uniqueone1968&hide_border=true" height="180px"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uniqueone1968&layout=compact&hide_border=true" height="180px"/>
+</p>
 
-![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Uniqueone1968&layout=pie)
+---
+
+### 🐍 Watch my contribution graph get eaten by a snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Uniqueone1968/Uniqueone1968/output/snake.svg" alt="Snake animation" />
+</p>
 
 ## 🛠️ Tech Arsenal  
 
