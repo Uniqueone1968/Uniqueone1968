@@ -11,6 +11,9 @@ Whether it’s a robust backend, a smooth frontend, or a **3D animated experienc
 
 ---
 
+
+![Gourav's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Uniqueone1968&layout=pie)
+
 ## 🛠️ Tech Arsenal  
 
 **Languages & Frameworks:**   
@@ -78,5 +81,3 @@ RESTful APIs • Debugging & Optimization • Open Source Contributions • 3D A
 
 ### ⚡ Fun Fact:  
 I’m currently experimenting with bringing my **3D animated character** into different platforms — GitHub README might be next 😉  
-
-[👉 View my GitHub Profile Summary](https://profile-summary-for-github.com/user/Uniqueone1968)
