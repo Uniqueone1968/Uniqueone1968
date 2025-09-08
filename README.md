@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/55aba73a-62a2-4135-bc05-2e5cbb179ef9" alt="3D Avatar" width="220" align="right" />
 </p>
 
-<h2 align="left">👋 Hey, I’m Gourav Sharma</h2>  
+<h3 align="left">👋 Hey, I’m Gourav Sharma</h3>
 
-### 🚀 Senior Full Stack Developer | AI Enthusiast | Creative Builder  
+#### 🚀 Senior Full Stack Developer | AI Enthusiast | Creative Builder  
 
 I craft **scalable applications, debug complex systems, and create immersive experiences** that blend technology with creativity.  
 Whether it’s a robust backend, a smooth frontend, or a **3D animated experience**, I thrive on building impactful projects.  
@@ -13,11 +13,17 @@ Whether it’s a robust backend, a smooth frontend, or a **3D animated experienc
 
 ## 🛠️ Tech Arsenal  
 
-**Languages & Frameworks:**  
-JavaScript • TypeScript • Python • PHP (Yii2, Laravel) • Node.js • React.js • Vite • Flutter  
+**Languages & Frameworks:**   
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,nodejs,react,vite,flutter,html,css,bootstrap,threejs,laravel,django&theme=light)](https://skillicons.dev)
 
 **Databases & Cloud:**  
-MySQL • MongoDB • Firebase • DigitalOcean • AWS • Nginx • Apache  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,nginx&theme=light)](https://skillicons.dev)
+
+**IDEs & Other Softwares:**  
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,powershell,androidstudio,blender,nginx,figma,git,github,gitlab&theme=light)](https://skillicons.dev)
+
+**Operating Systems:**  
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,windows,raspberrypi&theme=light)](https://skillicons.dev)
 
 **Other Superpowers:**  
 RESTful APIs • Debugging & Optimization • Open Source Contributions • 3D Animations (Three.js, GSAP)  
@@ -53,11 +59,24 @@ RESTful APIs • Debugging & Optimization • Open Source Contributions • 3D A
 
 ## 📬 Let’s Connect  
 
-🌐 [Portfolio](https://vikasaavatara.com)  
-💼 [LinkedIn](https://linkedin.com/in/gourav-sharma-146689232/)  
-🐙 [GitHub](https://github.com/Uniqueone1968)  
+<div>
+	<a href="https://www.vikasaavatara.com" target="_blank">
+		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" 
+		     alt="HTTP" title="HTTP"/>
+	</a>
+  <a href="https://linkedin.com/in/gourav-sharma-146689232/" target="_blank">
+		<img width="50" src="https://skillicons.dev/icons?i=linkedin&theme=light" 
+		     alt="HTTP" title="HTTP"/>
+	</a>
+  <a href="https://github.com/Uniqueone1968" target="_blank">
+		<img width="50" src="https://skillicons.dev/icons?i=github&theme=light" 
+		     alt="HTTP" title="HTTP"/>
+	</a>
+</div>  
 
 ---
 
 ### ⚡ Fun Fact:  
 I’m currently experimenting with bringing my **3D animated character** into different platforms — GitHub README might be next 😉  
+
+[👉 View my GitHub Profile Summary](https://profile-summary-for-github.com/user/Uniqueone1968)
