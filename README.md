@@ -48,14 +48,26 @@ RESTful APIs • Debugging & Optimization • Open Source Contributions • 3D A
 
 ## ✨ Featured Projects  
 
-🌐 [Vikasa Avatara](https://vikasaavatara.com) – My interactive **3D portfolio** powered by MERN, Three.js & GSAP.  
+<p align="center">
+  <a class="project-card" href="https://vikasaavatara.com" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/Uniqueone1968/Uniqueone1968/main/assets/Screenshot 2025-09-04 180118.png" width="250px" />
+  </a>
+  <a class="project-card" href="https://holidaytribeindia.com" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/Uniqueone1968/Uniqueone1968/main/assets/Screenshot 2025-09-04 180335.png" width="250px" />
+  </a>
+  <a class="project-card" href="https://vayuvoyage.travel" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/Uniqueone1968/Uniqueone1968/main/assets/Screenshot 2025-09-04 180225.png" width="250px" />
+  </a>
+</p>
 
-✈️ [HolidayTribe India](https://holidaytribeindia.com) – Advanced travel platform with animations, scalable backend & booking flows.  
-
-💨 [Vayu Voyage](https://vayuvoyage.travel) – Modern tours & travel brand with Vite and API integrations (3D animations in progress).  
-
-📚 [Knowledge Nest](https://github.com/Uniqueone1968/knowledge_nest) – An educational platform built with PHP & MySQL.  
-
+<!-- 
+<p align="center">
+  <a class="project-card" href="https://github.com/Uniqueone1968/knowledge_nest" target="_blank">
+    <img src="https://raw.githubusercontent.com/Uniqueone1968/Uniqueone1968/main/assets/knowledge-nest.png" width="250px" /><br>
+    <b>📚 Knowledge Nest</b>
+  </a>
+</p>
+-->
 ---
 
 ## 🏆 Achievements  
